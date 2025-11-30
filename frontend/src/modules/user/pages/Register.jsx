@@ -49,8 +49,6 @@ export default function Register() {
                     </p>
                   </div>
                 )}
-
-
               </Box>
 
               <Box>
@@ -65,8 +63,6 @@ export default function Register() {
                     </p>
                   </div>
                 )}
-
-
               </Box>
 
               <Box>
@@ -81,8 +77,6 @@ export default function Register() {
                     </p>
                   </div>
                 )}
-
-
               </Box>
             </Flex>
 
