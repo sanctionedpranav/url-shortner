@@ -29,9 +29,8 @@ const UrlShort = () => {
   }
 
   return (
-
     <Flex
-      height="100vh"
+      height="85vh"
       align="center"
       justify="center"
       direction="column"
